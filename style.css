@@ -1,0 +1,100 @@
+#Container{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+  width: auto;
+  background-color: #FFF;
+  box-shadow: 0 1px 6px 0 rgba(0,0,0,0.15);
+  align-items: center;
+  padding:20px;
+}
+
+#More{
+    display: flex;
+}
+.header{
+    height: 50px;
+    width:100px;
+    color: #3E3E3E;
+  font-family: Heebo;
+  font-size: 15px;
+  letter-spacing: 0.37px;
+}
+#logo{
+    height: 50px;
+    width:100px;  
+}
+#your{
+    font-weight: 700px;
+}
+#image img{
+    height: 300px;
+    width: 1330px;
+    border: 1px solid #808080;
+}
+#image{
+    height:310px;
+    width:1200px;
+}
+.para{
+    position: relative;
+    bottom: 230px;
+    text-align: center;
+    height:100px;
+    width:382px;
+    left: 150px;
+}
+#lorem{
+    color: #FFF;
+  font-family: "Heebo Light";
+  font-size: 12px;
+  letter-spacing: 0.5px;
+  line-height: 28px;
+}
+h3{
+    color: #FFF;
+  font-family: Impact, Haettenschweiler, ;
+  font-size: 30px;
+  /* letter-spacing: 1.25px; */
+  line-height: 20px;
+}
+#btn{
+    border-radius: 20px;
+    height: 26px;
+}
+#best-product{
+    text-align: center;
+    padding:20px;
+}
+#products{
+    display: flex;
+    justify-content: space-around;
+}
+.items{
+    height:300px;
+    width:300px;
+    border-radius: 8px;
+  background-color: #FFF;
+  
+
+}
+.prod-info{
+    text-align: center;
+}
+.select{
+    border-radius: 20px;
+    width:90px;
+    height:35px;
+}
+#Rectangle{
+    height: 100px;
+    width: 1000px;
+    padding: 110px;
+    
+    text-align: center;
+}
+#Rectangle2{
+    display: flex;
+    justify-content: space-around;
+    background-color: #3E3E3E;
+}
