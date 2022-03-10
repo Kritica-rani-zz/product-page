@@ -98,3 +98,14 @@ h3{
     justify-content: space-around;
     background-color: #3E3E3E;
 }
+
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.select:hover{
+    background-color: aqua;
+}
